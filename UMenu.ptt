@@ -189,7 +189,7 @@ WindowTitle="Configure os Modificadores"
 
 [UMenuBotmatchWindow]
 ; EN: WindowTitle="Botmatch"
-WindowTitle="Partida contra Bots"
+WindowTitle="Partida com Bots"
 
 [UMenuStartGameWindow]
 ; EN: WindowTitle="Start Network Game"
@@ -1069,7 +1069,7 @@ DodgingHelp="Se marcado, apertos rápidos nas teclas (frente, trás e deslizar p
 ; EN: ViewBobText="View Bob"
 ViewBobText="Mostrar Balanço"
 ; EN: ViewBobHelp="Use the slider to adjust the amount your view will bob when moving."
-ViewBobHelp="Use este controle para ajustar a quantidade de balanço que você vê na tela quando esta andando ou correndo."
+ViewBobHelp="Use este controle para ajustar a quantidade de balanço que você vê na tela quando está andando ou correndo."
 ; EN: SpeedText="Game Speed"
 SpeedText="Velocidade do Jogo"
 ; EN: GoreText="Gore Level"
@@ -1495,7 +1495,7 @@ SaveName="&Salvar"
 ; EN: SaveHelp="Select to save your current game."
 SaveHelp="Selecione para salvar o seu jogo atual."
 ; EN: BotmatchName="&Botmatch"
-BotmatchName="Partida contra Bots"
+BotmatchName="Partida com Bots"
 ; EN: BotmatchHelp="Select to begin a game of Botmatch: Deathmatch with Bots!"
 BotmatchHelp="Selecionar para começar um Jogo Contra Bots: Partida Mortal contra Bots!"
 ; EN: QuitTitle="Confirm Quit"
@@ -1533,11 +1533,11 @@ About2Help="Adquirir informações sobre o registro global de estatísticas."
 ; EN: ProgrammersText="Programming"
 ProgrammersText="Programação"
 ; EN: LevelDesignText="Level design"
-LevelDesignText="Design de nível"
+LevelDesignText="Design de Nível"
 ; EN: ArtText="Art and graphical design"
-ArtText="Arte e design gráfico"
+ArtText="Arte e Design Gráfico"
 ; EN: MusicSoundText="Sound and music"
-MusicSoundText="Som e musica"
+MusicSoundText="Som e Música"
 ; EN: BizText="Biz"
 BizText="Biz"
 ; EN: PatchText="OldUnreal v227 Patch"
@@ -1545,29 +1545,29 @@ PatchText="Patch OldUnreal v227"
 
 [UMenuRecGrid]
 ; EN: FileNameText="File name"
-FileNameText="Nome do arquivo"
+FileNameText="Nome do Arquivo"
 
 [UMenuStartRec]
 ; EN: StartRecText="Start demorec"
-StartRecText="Comece demorec"
+StartRecText="Comece Demorec"
 ; EN: RecordInfo="Output file name:"
 RecordInfo="Nome do arquivo de saída:"
 
 [UMenuRecPlay]
 ; EN: PlayDemoText="Play demo"
-PlayDemoText="Tocar demo"
+PlayDemoText="Tocar Demo"
 
 [UMenuDemoRecMenu]
 ; EN: RecordName="&Record game"
-RecordName="Jogo &recorde"
+RecordName="Jogo &Gravado"
 ; EN: RecordHelp="Start and end a recording."
 RecordHelp="Inicie e termine uma gravação."
 ; EN: PlaybackName="&Play demo"
-PlaybackName="&Play demo"
+PlaybackName="&Play Demo"
 ; EN: PlaybackHelp="Play a recorded demo."
 PlaybackHelp="Reproduza uma demonstração gravada."
 ; EN: StopDemoName="&Stop demo"
-StopDemoName="&Parar demo"
+StopDemoName="&Parar Demo"
 ; EN: StopDemoHelp="Stop the current demo."
 StopDemoHelp="Pare a demonstração atual."
 
@@ -1577,11 +1577,11 @@ WindowTitle="Créditos do Unreal"
 
 [UMenuRecPlayWindow]
 ; EN: WindowTitle="Play recording"
-WindowTitle="Tocar gravação"
+WindowTitle="Tocar Gravação"
 
 [UMenuStartRecWindow]
 ; EN: WindowTitle="Start recording"
-WindowTitle="Comece a gravar"
+WindowTitle="Comece a Gravar"
 
 [UMenuSinglePlayerSettingsCWindow]
 EditAreaWidth=90

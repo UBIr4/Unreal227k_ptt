@@ -333,7 +333,7 @@ MenuName="Titã de Pedra"
 
 [EndgameHud]
 ; EN: Message1="The Skaarj escape pod has broken free from the planet's gravitational pull... barely. Yet, it's fuel reserve has been depleted, and you drift aimlessly."
-Message1="A cápsula de escape dos Skaarj escapou da força gravitacional do planeta... por muito pouco. Ainda assim o seu combustível esta esgotado e você vaga sem rumo."
+Message1="A cápsula de escape dos Skaarj escapou da força gravitacional do planeta... por muito pouco. Ainda assim o seu combustível está esgotado e você vaga sem rumo."
 ; EN: Message2="From where many have died, you have escaped. You laugh to yourself; so much has happened, but so little has changed."
 Message2="De onde muitos morreram, você conseguiu fugir. Você ri para si mesmo; muita coisa aconteceu, mas muito pouco mudou."
 ; EN: Message3="Before the crash landing, you were trapped in a cramped cell. Now, once again you are confined in a prison."
