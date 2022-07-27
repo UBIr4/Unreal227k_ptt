@@ -185,7 +185,7 @@ WindowTitle="Lista de Mapas"
 
 [UMenuMutatorWindow]
 ; EN: WindowTitle="Configure Mutators"
-WindowTitle="Configure os Modificadores"
+WindowTitle="Configurar Modificadores"
 
 [UMenuBotmatchWindow]
 ; EN: WindowTitle="Botmatch"
@@ -201,7 +201,7 @@ WindowTitle="Carregar Jogo"
 
 [UMenuConfigIndivBotsWindow]
 ; EN: WindowTitle="Configure Individual Bots"
-WindowTitle="Configura os Bots Individuais"
+WindowTitle="Configurar Bots Individuais"
 
 [UMenuNewGameWindow]
 ; EN: WindowTitle="New Game"
@@ -227,7 +227,7 @@ MultiplayerHelp="Hospedar ou entrar num jogo multijogador."
 ; EN: OptionsName="&Options"
 OptionsName="&Opções"
 ; EN: OptionsHelp="Configure settings."
-OptionsHelp="Configure as opções."
+OptionsHelp="Configurar as opções."
 ; EN: ToolName="&Tools"
 ToolName="&Ferramentas"
 ; EN: ToolHelp="Enable various system tools."
@@ -241,7 +241,7 @@ VersionName="Versão"
 ; EN: ModName="M&od"
 ModName="&Mod"
 ; EN: ModHelp="Configure user-created mods you have installed."
-ModHelp="Configura modificações criadas por usuários que você tenha instaladas."
+ModHelp="Configurar modificações criadas por usuários que você tenha instaladas."
 ; EN: DemoName="&Recording"
 DemoName="&Gravação"
 ; EN: DemoHelp="Demo recording, record a game which you can view later."
@@ -1187,7 +1187,7 @@ RandomHelp="Se marcado, os bots entrarão numa ordem aleatória da lista de conf
 ; EN: ConfigBotsText="Configure"
 ConfigBotsText="Configurar"
 ; EN: ConfigBotsHelp="Configure the names, appearance and other attributes of individual bots."
-ConfigBotsHelp="Configure os nomes, aparência e outros atributos de cada bot individualmente."
+ConfigBotsHelp="Configurar os nomes, aparência e outros atributos de cada bot individualmente."
 ; EN: AtLeastOneBotTitle="Configure Bots"
 AtLeastOneBotTitle="Configurar Bots"
 ; EN: AtLeastOneBotText="You must choose at least one bot in order to use the configure bots screen."
